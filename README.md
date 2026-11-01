@@ -1,13 +1,12 @@
-# Türkçe Mail Gönderme Aracı 🚀
+# Türkçe Mail Aracı 🇹🇷📧
 
-Hiçbir ek dosya indirmekle veya kodla uğraşmadan, terminal üzerinden hızlıca ve Türkçe bir menüyle mail göndermenizi sağlayan pratik bir araçtır.
+Bu araç; Linux ve terminal ortamları üzerinden hızlı ve pratik bir şekilde e-posta göndermenizi sağlayan basit bir bash betiğidir.
 
-## Kurulum ve Çalıştırma
+---
 
-Terminalinizi açın ve aşağıdaki tek satırlık komutu kopyalayıp yapıştırın:
+## 🚀 Nasıl Kurulur ve Çalıştırılır?
+
+Terminal ekranınızı açarak aşağıdaki tek satırlık komutu yapıştırmanız yeterlidir:
 
 ```bash
-bash <(curl -s [https://raw.githubusercontent.com/multimemo788-alt/turkce-mail-araci/main/mailgonder.sh](https://raw.githubusercontent.com/multimemo788-alt/turkce-mail-araci/main/mailgonder.sh))
-
-
-# Önemli Not: sadece Linux için telefondan denemek için Andronix uygulamasından kali linuxu kurarak cmd ekranına yapıştırın uygulama şifresini nasıl alınır diye sorarsanız gemini size yardım edecektir 
+curl -s [https://raw.githubusercontent.com/multimemo788-alt/turkce-mail-araci/main/mailgonder.sh](https://raw.githubusercontent.com/multimemo788-alt/turkce-mail-araci/main/mailgonder.sh) | bash
