@@ -8,3 +8,6 @@ Terminalinizi açın ve aşağıdaki tek satırlık komutu kopyalayıp yapışt�
 
 ```bash
 bash <(curl -s [https://raw.githubusercontent.com/multimemo788-alt/turkce-mail-araci/main/mailgonder.sh](https://raw.githubusercontent.com/multimemo788-alt/turkce-mail-araci/main/mailgonder.sh))
+
+
+Önemli Not: sadece Linux için telefondan denemek için Andronix uygulamasından kali linuxu kurarak cmd ekranına yapıştırın uygulama şifresini nasıl alınır diye sorarsanız gemini size yardım edecektir 
